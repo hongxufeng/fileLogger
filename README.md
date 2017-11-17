@@ -20,7 +20,7 @@ Installation
 
 安装FileLogger使用"go get"命令
     
-    go get github.com/aiwuTech/fileLogger
+    go get github.com/hongxufeng/fileLogger
     
 只基于[Go](http://golang.org/)标准库，不依赖第三方库
 
@@ -30,17 +30,17 @@ Update
 
 更新FileLogger使用"go get -u"命令
 
-    go get -u github.com/aiwuTech/fileLogger
+    go get -u github.com/hongxufeng/fileLogger
 
 Usage
 -----
 
-用法请参考[example](https://github.com/aiwuTech/fileLogger/tree/master/example)，持续更新中
+用法请参考[example](https://github.com/hongxufeng/fileLogger/tree/master/example)，持续更新中
 
 API
 ---
 
-请参考[Go Walker](https://gowalker.org/github.com/aiwuTech/fileLogger)
+请参考[Go Walker](https://gowalker.org/github.com/hongxufeng/fileLogger)
 
 
 FAQ
